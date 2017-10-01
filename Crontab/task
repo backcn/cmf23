@@ -1,0 +1,3 @@
+* * * * * /usr/local/nginx/html/cmf23/Crontab/get_page_links.sh
+* * * * * /usr/local/nginx/html/cmf23/Crontab/down_load_page.sh
+* * * * * /usr/local/nginx/html/cmf23/Crontab/git_update.sh
